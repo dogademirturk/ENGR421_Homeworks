@@ -6,6 +6,6 @@ Koc University Fall 2021 ENGR421/521 Introduction to Machine Learning Homework A
 ##### hw03: 100
 ##### hw04: 100
 ##### hw05: 100
-##### hw06: 
+##### hw06: 95
 ##### hw07: late submission - not graded
 ##### hw08: 
